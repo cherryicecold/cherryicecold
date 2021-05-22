@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cherryicecold
+- 👋 Hi, I’m @cherryicecold (Karan)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning cloud technologies
 - 💞️ I’m looking to collaborate on ...
