@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cherryicecold (Karan)
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning cloud technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞 looking forward to collaborate with other amazing people
+- 📫  reach me facebook/linkedin/instagram
 
 <!---
 cherryicecold/cherryicecold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
